@@ -1,4 +1,4 @@
 package org.example.utiles;
 
-public class ProrertyReader {
+public class PropertyReader {
 }
